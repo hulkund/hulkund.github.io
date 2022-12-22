@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="prof.jpg">
 
 I'm a MEng student at MIT in the [HealthyML Lab](https://healthyml.org). I work on creating trustworthy machine learning models that are robust to distribution shift.
 
@@ -15,13 +15,16 @@ I went to MIT for undergrad and double majored in computer science and mathemati
 I'm interested in building theoretically-motivated machine learning systems robust to real world distribution shifts. My other interests include interpretability, optimal transport, foundations of ML, and ML applications in healthcare domains.
 
 ## Working Papers
+1. 
+2. 
+3. 
 
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Projects
+## Posters/Projects
 
 ## Typography
 
