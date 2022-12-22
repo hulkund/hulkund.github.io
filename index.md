@@ -6,18 +6,22 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I'm a MEng student at MIT in the [HealthyML Lab](https://healthyml.org). I work on creating trustworthy machine learning models that are robust to distribution shift.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I went to MIT for undergrad and double majored in computer science and mathematics with a concentration in Ancient and Medieval Studies. I've previously interned at Microsoft Research (x2) and Apple Research.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I'm interested in building theoretically-motivated machine learning systems robust to real world distribution shifts. My other interests include interpretability, optimal transport, foundations of ML, and ML applications in healthcare domains.
+
+## Working Papers
 
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+
+## Projects
 
 ## Typography
 
@@ -39,7 +43,3 @@ Here is a blockquote
 
 > To a great mind, nothing is little
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

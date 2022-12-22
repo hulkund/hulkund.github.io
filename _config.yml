@@ -1,14 +1,15 @@
 title: Researcher
-url: "https://ankitsultana.com"
+url: "hulkund.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
+remote_theme: ankitsultana/researcher@gem
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/hulkund.github.io"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
