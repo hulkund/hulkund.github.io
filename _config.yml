@@ -4,7 +4,7 @@ baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-remote_theme: ankitsultana/researcher@gem
+remote_theme: ankitsultana/researcher
 
 tracking_id: #
 
@@ -20,6 +20,6 @@ nav:
  - name: "About"
    link: "/researcher/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "cv.pdf"
  - name: "Contact"
    link: "contact"
