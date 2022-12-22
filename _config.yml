@@ -1,16 +1,15 @@
 title: Researcher
-url: "hulkund.github.io"
-baseurl: "/researcher"
+# url: "hulkund.github.io"
+# baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-remote_theme: samarsault/texture
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/hulkund.github.io"
-footer_text: "Page design by Ankit Sultana"
+# footer: yes
+# footer_url: "https://github.com/hulkund.github.io"
+# footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -23,3 +22,6 @@ nav:
    link: "cv.pdf"
  - name: "Contact"
    link: "contact"
+
+#Build settings
+remote_theme: samarsault/texture
