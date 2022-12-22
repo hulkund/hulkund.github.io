@@ -21,7 +21,7 @@ nav:
  - name: "Resume"
    link: "cv.pdf"
  - name: "Contact"
-   link: mailto:nhulkund@mit.edu
+   link: "contact"
 
 #Build settings
 remote_theme: samarsault/texture

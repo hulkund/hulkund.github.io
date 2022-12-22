@@ -38,7 +38,7 @@ Neha Hulkund, Nicolo Fusi, Jennifer Wortman Vaughan, David Alvarez-Melis \
 [arxiv](https://arxiv.org/pdf/2208.02896.pdf)
 
 2. **GAN-based Data Augmentation for Chest X-ray Classification**\
-Shobhita Sundaram*, Neha Hulkund* (equal contribution)\
+Shobhita Sundaram, Neha Hulkund (equal contribution)\
 *Spotlight presentation at KDD 2021 DSHealth Workshop*\
 [arxiv](https://arxiv.org/pdf/2107.02970.pdf)
 
