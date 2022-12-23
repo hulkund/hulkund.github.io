@@ -24,7 +24,7 @@ Neha Hulkund, Vinith Suriyakumar, Taylor Killian, Marzyeh Ghassemi\
 [poster](https://drive.google.com/file/d/1S1W2BL_NpgCNgbSkugarDmj5iFMF7EhD/view?usp=share_link)
 
 2. **Predicting Out-of-Domain Generalization with Local Manifold Smoothness**\
-Neha Hulkund, Nathan Ng, Kyunghyun Cho, Marzyeh Ghassemi \
+Nathan Ng, Neha Hulkund, Kyunghyun Cho, Marzyeh Ghassemi \
 *Under review*\
 [arxiv](https://arxiv.org/pdf/2207.02093.pdf)
 
@@ -62,7 +62,7 @@ Final Project for MIT class *6.871: Machine Learning in Healthcare*\
 [pdf](https://drive.google.com/file/d/1OwCuu6WlETLEwfqDormRkT87XkeiYt6k/view?usp=sharing)
 
 ## Other
-In my free time, I enjoy spending my time outdoors hiking/biking/sailing in the Pacific Northwest and (most recently) New Hampshire. My other hobbies include painting, reading, and badminton. 
+In my free time, I enjoy spending my time outdoors hiking/biking/sailing/kayaking in the Pacific Northwest and (most recently) New Hampshire. My other hobbies include painting, reading, and badminton. 
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**.
 
