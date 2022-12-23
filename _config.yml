@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-# footer: yes
-# footer_url: "https://github.com/hulkund.github.io"
-# footer_text: "Page design by Ankit Sultana"
+footer: yes
+footer_url: "https://github.com/hulkund.github.io"
+footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -21,7 +21,7 @@ nav:
  - name: "Resume"
    link: "cv.pdf"
  - name: "Contact"
-   link: "contact"
+   link: mailto:nhulkund@mit.edu
 
 #Build settings
 remote_theme: samarsault/texture

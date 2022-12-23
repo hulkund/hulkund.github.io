@@ -8,7 +8,7 @@ layout: default
 
 I'm a MEng student at MIT in the [HealthyML Lab](https://healthyml.org). I work on creating trustworthy machine learning models that are robust to distribution shift.
 
-I went to MIT for undergrad and double majored in computer science and mathematics with a concentration in Ancient and Medieval Studies. I've previously interned at Microsoft Research (x2) and Apple Research. I'm also on [Twitter](https://twitter.com/NHulkund) and [Mastodon](). Feel free to contact me at my [email](mailto:nhulkund@mit.edu)! 
+I went to MIT for undergrad and double majored in computer science and mathematics with a concentration in Ancient and Medieval Studies. I've previously interned at Microsoft Research (x2) and Apple Research. I'm also on [Twitter](https://twitter.com/NHulkund) and [Mastodon](). Feel free to contact me at nhulkund@mit.edu! 
 
 ## Research Interest
 
@@ -38,7 +38,7 @@ Neha Hulkund, Nicolo Fusi, Jennifer Wortman Vaughan, David Alvarez-Melis \
 [arxiv](https://arxiv.org/pdf/2208.02896.pdf)
 
 2. **GAN-based Data Augmentation for Chest X-ray Classification**\
-Shobhita Sundaram, Neha Hulkund (equal contribution)\
+Shobhita Sundaram\*, Neha Hulkund\* (equal contribution)\
 *Spotlight presentation at KDD 2021 DSHealth Workshop*\
 [arxiv](https://arxiv.org/pdf/2107.02970.pdf)
 
@@ -56,7 +56,7 @@ Shobhita Sundaram, Neha Hulkund (equal contribution)\
 [pdf](https://drive.google.com/file/d/12xdOv5r0wrc9y5k3k1_rHAKYShrORQ4j/view?usp=sharing)
 
 4. **Methods for Clinical Time Series Analysis in Pediatrics**\
-*Final Project for MIT class 6.871: Machine Learning in Healthcare*
+*Final Project for MIT class 6.871: Machine Learning in Healthcare*\
 [pdf](https://drive.google.com/file/d/1OwCuu6WlETLEwfqDormRkT87XkeiYt6k/view?usp=sharing)
 
 ## Other
