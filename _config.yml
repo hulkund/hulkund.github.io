@@ -1,15 +1,15 @@
-title: Neha Hulkund
-url: "hulkund.github.io"
-baseurl: "/researcher"
+title: Researcher
+# url: "hulkund.github.io"
+# baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/hulkund.github.io"
-footer_text: "Page design by Ankit Sultana"
+# footer: yes
+# footer_url: "https://github.com/hulkund.github.io"
+# footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
