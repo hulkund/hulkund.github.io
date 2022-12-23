@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="prof.jpg">
 
-I'm a MEng student at MIT in the [HealthyML Lab](https://healthyml.org). I work on creating trustworthy machine learning models that are robust to distribution shift.
+I'm a MEng student at MIT in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi. I work on creating trustworthy machine learning models that are robust to distribution shift. I am currently applying for PhD programs in computer science!
 
-I went to MIT for undergrad and double majored in computer science and mathematics with a concentration in Ancient and Medieval Studies. I've previously interned at Microsoft Research (x2) and Apple Research. I'm also on [Twitter](https://twitter.com/NHulkund) and [Mastodon](). Feel free to contact me at nhulkund@mit.edu! 
+I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6/18) with a concentration in Ancient and Medieval Studies. I've previously interned at Microsoft Research (x2) and Apple Research. I'm also on [Twitter](https://twitter.com/NHulkund) and [Mastodon](). Feel free to contact me at nhulkund@mit.edu! 
 
 ## Research Interest
 
@@ -60,7 +60,7 @@ Shobhita Sundaram\*, Neha Hulkund\* (equal contribution)\
 [pdf](https://drive.google.com/file/d/1OwCuu6WlETLEwfqDormRkT87XkeiYt6k/view?usp=sharing)
 
 ## Other
-In my free time, I enjoy spending my time outdoors hiking/biking/snoeshowing in the Pacific Northwest and (most recently) New Hampshire. My other hobbies include painting, reading, and badminton. 
+In my free time, I enjoy spending my time outdoors hiking/biking/snowshoeing in the Pacific Northwest and (most recently) New Hampshire. My other hobbies include painting, reading, and badminton. 
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**.
 
