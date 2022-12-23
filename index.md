@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="prof.jpg">
 
-I'm a MEng student at MIT in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi. I work on creating trustworthy machine learning models that are robust to distribution shift. \ **I am currently applying for PhD programs in computer science!**
+I'm a MEng student at MIT in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi. I work on creating trustworthy machine learning models that are robust to distribution shift and **am currently applying for PhD programs in computer science!**
 
-I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've previously interned at Microsoft Research (x2) Apple Research, and Amadeus. 
+I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've previously had the pleasure to intern at Microsoft Research (x2) Apple Research, and Amadeus.
 
 I'm also on [Twitter](https://twitter.com/NHulkund) and [Mastodon](). Feel free to contact me at **nhulkund@mit.edu**! 
 
