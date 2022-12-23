@@ -1,6 +1,6 @@
-title: Researcher
-# url: "hulkund.github.io"
-# baseurl: "/researcher"
+title: Neha Hulkund
+url: "hulkund.github.io"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
