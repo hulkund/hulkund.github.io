@@ -8,9 +8,11 @@ layout: default
 
 I'm a MEng student at MIT in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi. I work on creating trustworthy machine learning models that are robust to distribution shift. I am currently applying for PhD programs in computer science!
 
-I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6/18) with a concentration in Ancient and Medieval Studies. I've previously interned at Microsoft Research (x2) and Apple Research. I'm also on [Twitter](https://twitter.com/NHulkund) and [Mastodon](). Feel free to contact me at nhulkund@mit.edu! 
+I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've previously interned at Microsoft Research (x2) Apple Research, and Amadeus. 
 
-## Research Interest
+I'm also on [Twitter](https://twitter.com/NHulkund) and [Mastodon](). Feel free to contact me at nhulkund@mit.edu! 
+
+## Research Interests
 
 I'm interested in building theoretically-motivated machine learning systems robust to real world distribution shifts. My other interests include interpretability, optimal transport, foundations of ML, and AI applications in healthcare/climate domains.
 
@@ -44,19 +46,19 @@ Shobhita Sundaram\*, Neha Hulkund\* (equal contribution)\
 
 ## Other Projects
 1. **Facilitating Fairness through Distributionally Robust Finetuning**\
-*Final Project for MIT class 6.864: Natural Language Processing*\
+Final Project for MIT class *6.864: Natural Language Processing*\
 [pdf](https://drive.google.com/file/d/14T0o401LiZr772WwZkGg2Mf-Mt7m8Vjx/view?usp=share_link)
 
 2. **Extension of a Bayesian Hierarchical Model for Moral Judgments**\
-*Final Project for MIT class 6.804: Computational Cognitive Science*\
+Final Project for MIT class *6.804: Computational Cognitive Science*\
 [pdf](https://drive.google.com/file/d/1f0UMBvd9_rlW5LJxU9tn2UXnBRywyOKH/view?usp=sharing)
 
 3. **Minimum Degree of Generating Matrices**\
-*Final Project for MIT class 18.821: Seminar in Mathematical Research*\
+Final Project for MIT class *18.821: Seminar in Mathematical Research*\
 [pdf](https://drive.google.com/file/d/12xdOv5r0wrc9y5k3k1_rHAKYShrORQ4j/view?usp=sharing)
 
 4. **Methods for Clinical Time Series Analysis in Pediatrics**\
-*Final Project for MIT class 6.871: Machine Learning in Healthcare*\
+Final Project for MIT class *6.871: Machine Learning in Healthcare*\
 [pdf](https://drive.google.com/file/d/1OwCuu6WlETLEwfqDormRkT87XkeiYt6k/view?usp=sharing)
 
 ## Other
