@@ -7,17 +7,7 @@ is_contact: true
 
 * Phone: [+91-123123](tel:+91-123123)
 
----
 
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
 
 ## Social
 
