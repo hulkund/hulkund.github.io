@@ -62,7 +62,7 @@ Final Project for MIT class *6.871: Machine Learning in Healthcare*\
 [pdf](https://drive.google.com/file/d/1OwCuu6WlETLEwfqDormRkT87XkeiYt6k/view?usp=sharing)
 
 ## Other
-In my free time, I enjoy spending my time outdoors hiking/biking/snowshoeing in the Pacific Northwest and (most recently) New Hampshire. My other hobbies include painting, reading, and badminton. 
+In my free time, I enjoy spending my time outdoors hiking/biking/sailing in the Pacific Northwest and (most recently) New Hampshire. My other hobbies include painting, reading, and badminton. 
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**.
 
