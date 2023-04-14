@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="prof.jpg">
+<img class="profile-picture" src="prof_2.png">
 
 I'm a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi. I work on creating trustworthy machine learning models that are robust to distribution shift and **am currently applying for PhD programs in computer science!**
 
