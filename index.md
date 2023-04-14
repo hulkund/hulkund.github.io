@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="prof_2.png">
+<img class="profile-picture" src="prof_utah.png">
 
 I'm a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi and an incoming PhD student at MIT CSAIL. I work on creating trustworthy machine learning models that are robust to distribution shift. This summer, I will be visiting ETH Zurich, hosted by Prof. Fanny Yang. 
 
