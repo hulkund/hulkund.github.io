@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="prof_2.png">
 
-I'm a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi. I work on creating trustworthy machine learning models that are robust to distribution shift and **am currently applying for PhD programs in computer science!**
+I'm a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi and an incoming PhD student at MIT CSAIL. I work on creating trustworthy machine learning models that are robust to distribution shift. This summer, I will be visiting ETH Zurich, hosted by Prof. Fanny Yang. 
 
 I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've previously had the pleasure to intern at Microsoft Research (x2) Apple Research, and Amadeus.
 
-I'm also on [Twitter](https://twitter.com/NHulkund) and [Mastodon](). Feel free to contact me at **nhulkund@mit.edu**! 
+I'm also on [Twitter](https://twitter.com/NHulkund). Feel free to contact me at **nhulkund@mit.edu**! 
 
 ## Research Interests
 
@@ -64,7 +64,7 @@ Final Project for MIT class *6.871: Machine Learning in Healthcare*\
 ## Other
 In my free time, I enjoy spending my time outdoors 
 hiking/biking/sailing/kayaking in the Pacific Northwest and (most 
-recently) Scotland. My other hobbies include painting, reading, and 
+recently) Utah. My other hobbies include painting, reading, and 
 badminton. 
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**.
