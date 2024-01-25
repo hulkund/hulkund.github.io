@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="prof_utah_2.png">
 
-I'm a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi and an incoming PhD student at MIT CSAIL. I work on creating trustworthy machine learning models that are robust to distribution shift. This summer, I will be visiting ETH Zurich, hosted by Prof. Fanny Yang. 
+I'm an incoming PhD student at MIT CSAIL! I work on creating trustworthy machine learning models that are robust to distribution shift. This summer, I will be visiting ETH Zurich, hosted by Prof. Fanny Yang. 
 
-I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've previously had the pleasure to intern at Microsoft Research (x2) Apple Research, and Amadeus.
+Previously, I was a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi and an incoming PhD student at MIT CSAIL. I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've had the pleasure to intern at Microsoft Research (x2) Apple Research, and Amadeus.
 
 I'm also on [Twitter](https://twitter.com/NHulkund). Feel free to contact me at **nhulkund@mit.edu**! 
 
@@ -23,23 +23,23 @@ Neha Hulkund, Vinith Suriyakumar, Taylor Killian, Marzyeh Ghassemi\
 [pdf](https://drive.google.com/file/d/1J8NJZJJv_lEI-bS6WqQHMNPTjwODvbBY/view?usp=sharing)
 [poster](https://drive.google.com/file/d/1S1W2BL_NpgCNgbSkugarDmj5iFMF7EhD/view?usp=share_link)
 
-2. **Predicting Out-of-Domain Generalization with Local Manifold Smoothness**\
-Nathan Ng, Neha Hulkund, Kyunghyun Cho, Marzyeh Ghassemi \
-*Under review*\
-[arxiv](https://arxiv.org/pdf/2207.02093.pdf)
-
-3. **Detecting Out-Of-Distribution Examples Using Manifold Smoothness**\
+2. **Detecting Out-Of-Distribution Examples Using Manifold Smoothness**\
 Neha Hulkund, Nathan Ng, Marzyeh Ghassemi\
 coming soon!
 
 ## Publications
 
-1. **Interpretable Distribution Shift Detection using Optimal Transport**\
+1. **Predicting Out-of-Domain Generalization with Local Manifold Smoothness**\
+Nathan Ng, Neha Hulkund, Kyunghyun Cho, Marzyeh Ghassemi \
+*TMLR*\
+[arxiv](https://openreview.net/pdf?id=jYkWdJzTwn)
+
+2. **Interpretable Distribution Shift Detection using Optimal Transport**\
 Neha Hulkund, Nicolo Fusi, Jennifer Wortman Vaughan, David Alvarez-Melis \
 *Presented at ICML 2022 DataPerf Workshop*\
 [arxiv](https://arxiv.org/pdf/2208.02896.pdf)
 
-2. **GAN-based Data Augmentation for Chest X-ray Classification**\
+3. **GAN-based Data Augmentation for Chest X-ray Classification**\
 Shobhita Sundaram\*, Neha Hulkund\* (equal contribution)\
 *Spotlight presentation at KDD 2021 DSHealth Workshop*\
 [arxiv](https://arxiv.org/pdf/2107.02970.pdf)
@@ -64,7 +64,7 @@ Final Project for MIT class *6.871: Machine Learning in Healthcare*\
 ## Other
 In my free time, I enjoy spending my time outdoors 
 hiking/biking/sailing/kayaking in the Pacific Northwest and (most 
-recently) Utah. My other hobbies include painting, reading, and 
+recently) Switzerland. My other hobbies include painting, reading, and 
 badminton. 
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**.
