@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="prof_utah_2.png">
 
-I'm a first-year PhD student at MIT CSAIL, advised by Prof. Sara Beery!
+I'm a first-year PhD student at MIT CSAIL, advised by Prof. Sara Beery! I am grateful to be supported by the MIT Jameel Clinic Fellowship and the NSF GRFP.
 
 Previously, I was a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi, where I worked on detecting & mitigating distribution shift. Last summer, I was a visiting student at ETH Zurich advised by Prof. Fanny Yang, where I worked on optimal transport and differential privacy. I also attended MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've had the pleasure to intern at Microsoft Research (x3) and Apple Research. 
 
@@ -28,7 +28,7 @@ Neha Hulkund, Millie Chapman, Ruth Oliver, Sara Beery \
 
 1. **Privacy-preserving data release leveraging optimal transport and particle gradient descent**\
 Konstantin Donhauser, Javier Abad, Neha Hulkund, Fanny Yang \
-*Under Review*
+*ICLR Privacy Regulation and Protection in ML Workshop, Under Review at ICML* \
 [arxiv](https://arxiv.org/abs/2401.17823)
 
 2. **Predicting Out-of-Domain Generalization with Local Manifold Smoothness**\
@@ -38,7 +38,7 @@ Nathan Ng, Neha Hulkund, Kyunghyun Cho, Marzyeh Ghassemi \
 
 3. **Interpretable Distribution Shift Detection using Optimal Transport**\
 Neha Hulkund, Nicolo Fusi, Jennifer Wortman Vaughan, David Alvarez-Melis \
-*Presented at ICML 2022 DataPerf Workshop*\
+*Presented at ICML 2022 DataPerf Workshop* \
 [arxiv](https://arxiv.org/pdf/2208.02896.pdf)
 
 4. **GAN-based Data Augmentation for Chest X-ray Classification**\
