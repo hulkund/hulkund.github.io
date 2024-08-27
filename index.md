@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="prof_utah_2.png">
 
-I'm a first-year PhD student at MIT CSAIL, advised by Prof. Sara Beery! I am grateful to be supported by the MIT Jameel Clinic Fellowship and the NSF GRFP.
+I'm a second-year PhD student at MIT CSAIL, advised by Prof. Sara Beery! I am grateful to be supported by the MIT Jameel Clinic Fellowship and the NSF GRFP.
 
 Previously, I was a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi, where I worked on detecting & mitigating distribution shift. Last summer, I was a visiting student at ETH Zurich advised by Prof. Fanny Yang, where I worked on optimal transport and differential privacy. I also attended MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've had the pleasure to intern at Microsoft Research (x3) and Apple Research. 
 
