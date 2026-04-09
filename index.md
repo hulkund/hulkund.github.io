@@ -1,14 +1,15 @@
 ---
 layout: default
+published: false
 ---
 
 ## About Me
 
 <img class="profile-picture" src="prof_utah_2.png">
 
-I'm an incoming PhD student at MIT CSAIL! I work on creating trustworthy machine learning models that are robust to distribution shift. This summer, I will be visiting ETH Zurich, hosted by Prof. Fanny Yang. 
+I'm a second-year AI/ML PhD student at MIT CSAIL! I work on data-centric AI systems, focusing on data curation. 
 
-Previously, I was a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi and an incoming PhD student at MIT CSAIL. I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've had the pleasure to intern at Microsoft Research (x2) Apple Research, and Amadeus.
+Previously, I was a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi and a visiting student at ETH Zurich, hosted by Prof. Fanny Yang. I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've had the pleasure to intern at Microsoft Research (x2), Apple Research, and Amadeus.
 
 I'm also on [Twitter](https://twitter.com/NHulkund). Feel free to contact me at **nhulkund@mit.edu**! 
 
@@ -16,33 +17,44 @@ I'm also on [Twitter](https://twitter.com/NHulkund). Feel free to contact me at 
 
 I'm interested in building theoretically-motivated machine learning systems robust to real world distribution shifts. My other interests include interpretability, optimal transport, foundations of ML, and AI applications in healthcare/climate domains.
 
-## Working Papers
-1. **The Limits of Algorithmic Stability for Robustness to Distribution Shift** \
-Neha Hulkund, Vinith Suriyakumar, Taylor Killian, Marzyeh Ghassemi\
-*Under review, Presented at NeurIPS 2022 Women in Machine Learning Workshop* \
-[pdf](https://drive.google.com/file/d/1J8NJZJJv_lEI-bS6WqQHMNPTjwODvbBY/view?usp=sharing)
-[poster](https://drive.google.com/file/d/1S1W2BL_NpgCNgbSkugarDmj5iFMF7EhD/view?usp=share_link)
+## Recent Publications
 
-2. **Detecting Out-Of-Distribution Examples Using Manifold Smoothness**\
-Neha Hulkund, Nathan Ng, Marzyeh Ghassemi\
-coming soon!
+1. **DataS^ 3: Dataset Subset Selection for Specialization**
+Neha Hulkund, Alaa Maalouf, ... , Sara Beery (15+ authors)
+*preprint*\
+[arxiv](https://arxiv.org/abs/2504.16277)
 
-## Publications
+2. **Exploration into gradient-based coreset methods for targeted subset selection**
+Evelyn Zhu, Neha Hulkund, Sara Beery
+*ICLR Data-FM workshop*\
+[arxiv]()
 
-1. **Predicting Out-of-Domain Generalization with Local Manifold Smoothness**\
+2. **A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn't)**
+Nihal Nayak, Paula Rodriguez-Diaz, Neha Hulkund, Sara Beery, David Alvarez-Melis
+*preprint*\
+[arxiv](https://arxiv.org/abs/2602.14696)
+
+3. **Predicting Out-of-Domain Generalization with Local Manifold Smoothness**\
 Nathan Ng, Neha Hulkund, Kyunghyun Cho, Marzyeh Ghassemi \
 *TMLR*\
 [arxiv](https://openreview.net/pdf?id=jYkWdJzTwn)
 
-2. **Interpretable Distribution Shift Detection using Optimal Transport**\
+4. **Interpretable Distribution Shift Detection using Optimal Transport**\
 Neha Hulkund, Nicolo Fusi, Jennifer Wortman Vaughan, David Alvarez-Melis \
 *Presented at ICML 2022 DataPerf Workshop*\
 [arxiv](https://arxiv.org/pdf/2208.02896.pdf)
 
-3. **GAN-based Data Augmentation for Chest X-ray Classification**\
+5. **GAN-based Data Augmentation for Chest X-ray Classification**\
 Shobhita Sundaram\*, Neha Hulkund\* (equal contribution)\
 *Spotlight presentation at KDD 2021 DSHealth Workshop*\
 [arxiv](https://arxiv.org/pdf/2107.02970.pdf)
+
+6. **The Limits of Algorithmic Stability for Robustness to Distribution Shift** \
+Neha Hulkund, Vinith Suriyakumar, Taylor Killian, Marzyeh Ghassemi\
+*Presented at NeurIPS 2022 Women in Machine Learning Workshop* \
+[pdf](https://drive.google.com/file/d/1J8NJZJJv_lEI-bS6WqQHMNPTjwODvbBY/view?usp=sharing)
+[poster](https://drive.google.com/file/d/1S1W2BL_NpgCNgbSkugarDmj5iFMF7EhD/view?usp=share_link)
+
 
 ## Other Projects
 1. **Facilitating Fairness through Distributionally Robust Finetuning**\
