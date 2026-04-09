@@ -11,11 +11,14 @@ I'm a second-year AI/ML PhD student at MIT CSAIL! I work on data-centric AI syst
 
 Previously, I was a master's student at MIT CSAIL in the [HealthyML Lab](https://healthyml.org) advised by Prof. Marzyeh Ghassemi and a visiting student at ETH Zurich, hosted by Prof. Fanny Yang. I also went to MIT for undergrad and double majored in computer science and mathematics (Course 6 & 18) with a concentration in Ancient and Medieval Studies. I've had the pleasure to intern at Microsoft Research (x2), Apple Research, and Amadeus.
 
-I'm also on [Twitter](https://twitter.com/NHulkund). Feel free to contact me at **nhulkund@mit.edu**! 
+I'm also on [Twitter](https://twitter.com/NHulkund) and [Google Scholar](https://scholar.google.com/citations?user=MzRVTNoAAAAJ&hl=en). Feel free to contact me at **nhulkund@mit.edu**! 
 
 ## Research Interests
 
-I'm interested in building theoretically-motivated machine learning systems robust to real world distribution shifts. My other interests include interpretability, optimal transport, foundations of ML, and AI applications in healthcare/climate domains.
+I'm interested in building reliable machine learning systems, balancing tradeoffs of performance, efficiency, privacy, and robustness. Some current questions I am thinking about:
+- How do we leverage knowledge from large-scale foundation models to be applied for specialized downstream tasks?
+- How do we select data for large models carefully for increased robustness and resource efficiency?
+- Detecting distribution shifts is well studied on datasets such as ImageNet, how well does this translate to other domains?
 
 ## Recent Publications
 
@@ -41,12 +44,12 @@ Nathan Ng, Neha Hulkund, Kyunghyun Cho, Marzyeh Ghassemi \
 
 4. **Interpretable Distribution Shift Detection using Optimal Transport**\
 Neha Hulkund, Nicolo Fusi, Jennifer Wortman Vaughan, David Alvarez-Melis \
-*Presented at ICML 2022 DataPerf Workshop*\
+*ICML 2022 DataPerf Workshop* \
 [arxiv](https://arxiv.org/pdf/2208.02896.pdf)
 
 5. **GAN-based Data Augmentation for Chest X-ray Classification**\
 Shobhita Sundaram\*, Neha Hulkund\* (equal contribution)\
-*Spotlight presentation at KDD 2021 DSHealth Workshop*\
+*KDD 2021 DSHealth Workshop Spotlight Presentation*\
 [arxiv](https://arxiv.org/pdf/2107.02970.pdf)
 
 6. **The Limits of Algorithmic Stability for Robustness to Distribution Shift** \
@@ -75,9 +78,8 @@ Final Project for MIT class *6.871: Machine Learning in Healthcare*\
 
 ## Other
 In my free time, I enjoy spending my time outdoors 
-hiking/biking/sailing/kayaking in the Pacific Northwest and (most 
-recently) Switzerland. My other hobbies include painting, reading, and 
-badminton. 
+hiking/biking/sailing/kayaking in my hometown in the Pacific Northwest and (most 
+recently) Switzerland. 
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**.
 
